@@ -1,0 +1,11 @@
+# npmCreation
+
+1. sign up at npmjs.com
+2. npm login (Username, password, email from the npmjs.com)
+3. create package.json (npm init)
+4. test
+    -create a new directory (folder)
+    -you can install the module you created with npm install ../pathToPackage
+5. publish
+    -go to the folder of the npm
+    -npm publish
